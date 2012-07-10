@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-size: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+#wrap {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 0px;
+	margin-top: 3px;
+}
+#header {
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	height: 250px;
+	width: 960px;
+	background-image: url(img/images/header.png);
+}
+#sidebar {
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	height: 400px;
+	width: 300px;
+}
+#menu {
+	height: 75px;
+	width: 960px;
+	float: left;
+	margin: 0px;
+	padding: 0px;
+}
+#content {
+	margin: 0px;
+	padding: 0px;
+	width: 660px;
+	height: 400px;
+	float: left;
+}
+#footer {
+	margin: 0px;
+	padding: 0px;
+	clear: both;
+	width: 960px;
+}
